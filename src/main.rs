@@ -1,5 +1,5 @@
-mod pointer;
+mod structs;
 
 fn main() {
-    pointer::run();
+    structs::run();  
 }
